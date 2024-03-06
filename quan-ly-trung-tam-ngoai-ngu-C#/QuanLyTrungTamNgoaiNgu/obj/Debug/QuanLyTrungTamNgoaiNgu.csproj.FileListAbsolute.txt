@@ -1,0 +1,232 @@
+D:\data\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+D:\data\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+D:\data\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+D:\data\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojResolveAssemblyReference.cache
+D:\data\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyNgoaiNgu.resources
+D:\data\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+D:\data\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.Cache
+D:\data\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+D:\data\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+D:\data\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmMain.resources
+D:\data\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyBangCap.resources
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmMain.resources
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyBangCap.resources
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyGiaoVien.resources
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyNgoaiNgu.resources
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemGiaoVien.resources
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.cache
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.CoreCompileInputs.cache
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.AssemblyReference.cache
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaGiaoVien.resources
+E:\Programming\WindowsApplications\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangNhap.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\bin\Debug\normidna.nlp
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfc.nlp
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfd.nlp
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfkc.nlp
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangNhap.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmMain.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyBangCap.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyGiaoVien.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyNgoaiNgu.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaGiaoVien.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemGiaoVien.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyHocVien.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaHocVien.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemHocVien.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojResolveAssemblyReference.cache
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangKy.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangNhap.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmMain.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyBangCap.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyGiaoVien.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyHocVien.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyNgoaiNgu.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaGiaoVien.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaHocVien.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemGiaoVien.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemHocVien.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.Cache
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaLop.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemLop.resources
+D:\Code\C#\_PTUD_CSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmLop.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangKy.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmLop.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaLop.resources
+C:\Users\Administrator\Desktop\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemLop.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normidna.nlp
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfc.nlp
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfd.nlp
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfkc.nlp
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangKy.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangNhap.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmLop.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmMain.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyBangCap.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyGiaoVien.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyHocVien.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyNgoaiNgu.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaGiaoVien.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaHocVien.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaLop.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemGiaoVien.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemHocVien.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemLop.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmNhatKy.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normidna.nlp
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfc.nlp
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfd.nlp
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfkc.nlp
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangKy.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangNhap.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmLop.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmMain.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmNhatKy.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyBangCap.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyGiaoVien.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyHocVien.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyNgoaiNgu.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaGiaoVien.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaHocVien.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaLop.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemGiaoVien.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemHocVien.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemLop.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normidna.nlp
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfc.nlp
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfd.nlp
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfkc.nlp
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangKy.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangNhap.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmLop.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmMain.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmNhatKy.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyBangCap.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyGiaoVien.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyHocVien.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyNgoaiNgu.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaGiaoVien.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaHocVien.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaLop.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemGiaoVien.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemHocVien.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemLop.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\kì 5\gom\csdl\baitapnhom\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDanhSachLop.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\mscorlib.dll
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\normidna.nlp
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfc.nlp
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfd.nlp
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfkc.nlp
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\normnfkd.nlp
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangKy.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangNhap.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDanhSachLop.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmLop.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmMain.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmNhatKy.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyBangCap.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyGiaoVien.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyHocVien.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyNgoaiNgu.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaGiaoVien.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaHocVien.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaLop.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemGiaoVien.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemHocVien.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemLop.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyNguoiDung.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe.config
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\bin\Debug\QuanLyTrungTamNgoaiNgu.pdb
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangKy.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDangNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmDanhSachLop.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmLop.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmMain.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmNhatKy.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyBangCap.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyGiaoVien.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyHocVien.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyNgoaiNgu.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmQuanLyNguoiDung.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaGiaoVien.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaHocVien.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmSuaLop.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemGiaoVien.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemHocVien.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.FrmThemLop.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.exe
+C:\Users\Admin\OneDrive\Máy tính\cacbaidalam\BTL-UDCSDL\QuanLyTrungTamNgoaiNgu\obj\Debug\QuanLyTrungTamNgoaiNgu.pdb
